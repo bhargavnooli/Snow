@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="name" label="Name" language="en" table="x_39699_test_git_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <help/>
+            <hint/>
+            <label>Name</label>
+            <language>en</language>
+            <name>x_39699_test_git_test</name>
+            <plural>Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-22 16:20:19</sys_created_on>
+            <sys_id>43d436b2db43401057e8a0f2ca96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Name</sys_name>
+            <sys_package display_value="Test_git" source="x_39699_test_git">73b2bafadb0f001057e8a0f2ca961913</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test_git">73b2bafadb0f001057e8a0f2ca961913</sys_scope>
+            <sys_update_name>sys_documentation_x_39699_test_git_test_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-22 16:20:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
