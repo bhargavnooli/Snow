@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Test_git">b2433efedb03401057e8a0f2ca9619a9</compiled_page_registry>
+        <description>Git huib classicc</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Test_git Search Context Config">b243ba76db4f001057e8a0f2ca9619a8</global_search_data>
+        <name>Test_git</name>
+        <navigation_type>breadcrumb</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-22 16:13:28</sys_created_on>
+        <sys_id>ba433efedb03401057e8a0f2ca9619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test_git</sys_name>
+        <sys_package display_value="Test_git" source="x_39699_test_git">73b2bafadb0f001057e8a0f2ca961913</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_git">73b2bafadb0f001057e8a0f2ca961913</sys_scope>
+        <sys_update_name>sys_aw_master_config_ba433efedb03401057e8a0f2ca9619a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-22 16:13:28</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_url>test_git</workspace_url>
+    </sys_aw_master_config>
+</record_update>

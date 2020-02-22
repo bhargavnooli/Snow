@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Groups">43433efedb03401057e8a0f2ca9619b9</category>
+        <columns>active,cost_center,default_assignee,description,email,exclude_manager,include_members,manager,name,parent,roles,source,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on,type</columns>
+        <condition/>
+        <groups/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-22 16:13:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>47433efedb03401057e8a0f2ca9619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test_git" source="x_39699_test_git">73b2bafadb0f001057e8a0f2ca961913</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_git">73b2bafadb0f001057e8a0f2ca961913</sys_scope>
+        <sys_update_name>sys_aw_list_47433efedb03401057e8a0f2ca9619bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-22 16:13:28</sys_updated_on>
+        <table>sys_user_group</table>
+        <title>All</title>
+        <workspace display_value="Test_git">ba433efedb03401057e8a0f2ca9619a8</workspace>
+    </sys_aw_list>
+</record_update>
