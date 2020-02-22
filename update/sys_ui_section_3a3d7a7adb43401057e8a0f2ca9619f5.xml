@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="3a3d7a7adb43401057e8a0f2ca9619f5" sys_domain="global" table="x_39699_test_git_test" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-22 16:56:53</sys_created_on>
+            <sys_id>fe3dfa7adb43401057e8a0f2ca961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_39699_test_git_test" sys_domain="global" view="Default view">3a3d7a7adb43401057e8a0f2ca9619f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-22 16:56:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_39699_test_git_test</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-22 16:56:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a3d7a7adb43401057e8a0f2ca9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_39699_test_git_test</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test_git" source="x_39699_test_git">73b2bafadb0f001057e8a0f2ca961913</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test_git">73b2bafadb0f001057e8a0f2ca961913</sys_scope>
+            <sys_update_name>sys_ui_section_3a3d7a7adb43401057e8a0f2ca9619f5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-22 16:56:53</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
